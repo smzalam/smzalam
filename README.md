@@ -1,4 +1,6 @@
-# Syed Alam
+# 🎾 Syed Alam
+
+**`Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning. ~ Paulo Freire `**
 
 ### Hi there 👋
 
