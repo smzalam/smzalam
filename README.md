@@ -1,3 +1,8 @@
+<p align="center">
+Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning.`**
+Paule Freire
+</p>
+
 # 🎾 Syed Alam
 
 >**`Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning.`**
