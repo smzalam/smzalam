@@ -12,11 +12,14 @@ I am currently a university student dabbling into the world that is engineering 
 
 ### 📟 Where to contact me
 
+### 📄 See my Github Stats
+<details>
+<summary> Stats </summary>
 
-### 📄 Github Stats
+[![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Syed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smzalam&langs_count=6&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ```python
 class Eduard():
