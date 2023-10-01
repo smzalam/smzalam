@@ -1,7 +1,7 @@
 # 🎾 Syed Alam
 
 <div align="center">
-  <h5><pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre></h5>
+  <h3><pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre></h3>
 <!-- </div> Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning.</text>
 <br>
 <text> Paul Freire </text> -->
