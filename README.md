@@ -1,9 +1,10 @@
 # 🎾 Syed Alam
 
-<p align="center" style="background-color:#ba72ed; border-radius: 10px; padding: 10px">
-<text style="font-style: italic"> Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning.</text>
+<div align="center">
+  <h5><pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre></h5>
+<!-- </div> Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning.</text>
 <br>
-<text> Paul Freire </text>
+<text> Paul Freire </text> -->
   <!-- <a href="https://www.azquotes.com/quote/875548">
     <img width="200px" src="./Images/Quotation-Paulo-Freire-Whoever-teaches-learns-in-the-act-of-teaching-and-whoever-87-55-48.jpg" alt="Paul Freire Quote" /></a> -->
 </p>
