@@ -4,9 +4,46 @@
   <h3>
   <pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre>
   </h3>
+</div>
 
-### Hi there 👋
+### 👋 Hi there 
 
+I am currently a university student dabbling into the world that is engineering and learning new stuff every single day. I am interested in a variety of fields such as `web development`, `robotics`, `artificial intelligence/machine learning`, and `project management`. 
+
+### 📟 Where to contact me
+
+
+### 📄 Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=shades-of-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=shades-of-purple#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+```python
+class Eduard():
+    
+  def __init__(self):
+    self.name = "Eduard"
+    self.location = "Montreal, CA"
+    self.major = "Software Engineering, McGill University"
+    self.languages = [
+      "Java",
+      "Python",
+      "JavaScript",
+      "Go",
+      "Rust",
+      "C/C++",
+      "HTML",
+      "CSS",
+      "OCmal",
+      "MatLab"
+    ]
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Eduard()
+```
 <!--
 **smzalam/smzalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
