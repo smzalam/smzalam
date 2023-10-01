@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.azquotes.com/quote/875548">
-    <img src="./Images/Quotation-Paulo-Freire-Whoever-teaches-learns-in-the-act-of-teaching-and-whoever-87-55-48.jpg" alt="Paul Freire Quote" /></a>
+    <img height="25%" width="100%" src="./Images/Quotation-Paulo-Freire-Whoever-teaches-learns-in-the-act-of-teaching-and-whoever-87-55-48.jpg" alt="Paul Freire Quote" /></a>
 </p>
 
 ### Hi there 👋
