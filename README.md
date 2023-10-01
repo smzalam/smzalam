@@ -2,9 +2,7 @@
 
 <div align="center">
   <h3>
-  <pre>
-  "Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire
-  </pre>
+  <pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre>
   </h3>
 
 ### Hi there 👋
