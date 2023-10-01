@@ -1,18 +1,16 @@
 # 🎾 Syed Alam
 
 <div align="center">
-  <h3>
-  <pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre>
-  </h3>
+  <h3><pre>"Whoever teaches learns in the act of teaching and whoever learns teaches in the act of learning." ~ Paulo Freire</pre></h3>
 </div>
 
-### 👋 Hi there 
+# 👋 Hi there 
 
 I am currently a university student dabbling into the world that is engineering and learning new stuff every single day. I am interested in a variety of fields such as `web development`, `robotics`, `artificial intelligence/machine learning`, and `project management`. 
 
-### 📟 Where to contact me
+# 📟 Where to contact me
 
-### 📄 See my Github Stats
+# 📄 See my Github Stats
 <details>
 <summary> Stats </summary>
 
