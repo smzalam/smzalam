@@ -15,8 +15,8 @@ I am currently a university student dabbling into the world that is engineering 
 
 ### 📄 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=shades-of-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=shades-of-purple#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ```python
 class Eduard():
