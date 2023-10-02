@@ -28,7 +28,7 @@ I am currently a university student dabbling into the world that is engineering 
 </details>
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <summary><h1>🏷️ Holopin Badges</h1></summary>
 
   <p><a href="https://holopin.io/@smzalam"><img src="https://holopin.me/smzalam" alt="@smzalam&#39;s Holopin board"></a></p>
 </details>
