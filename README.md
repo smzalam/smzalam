@@ -20,7 +20,7 @@ I am currently a university student dabbling into the world that is engineering 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smzalam&langs_count=6&layout=donut-vertical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smzalam&langs_count=6&layout=donut"/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=smzalam&theme=nightowl&hide_border=true"/>
