@@ -23,7 +23,7 @@ A variety of new stuff about to be public soon!
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/smz-alam/)
 
 
-<details open>
+<details>
 <summary><h2>🧰 My Toolbox</h2></summary>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
