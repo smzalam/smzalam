@@ -9,6 +9,7 @@
 I am currently a university student dabbling into the world that is engineering and learning new stuff every single day. I am interested in a variety of fields such as `web development`, `robotics`, `artificial intelligence/machine learning`, and `project management`. 
 
 # 📟 Where to contact me
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/smz-alam/)
 
 <details>
 <summary><h1>📄 See my Github Stats</h1></summary>
