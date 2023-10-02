@@ -96,7 +96,7 @@ A variety of new stuff about to be public soon!
 
   <details>
   <summary>Credits</summary>
-  Inspiration taken by DenverCoder1.
+  Inspiration taken by <a href="https://github.com/DenverCoder1">DenverCoder1</a>.
   </details>
 </details>
 
