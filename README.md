@@ -10,13 +10,27 @@ I am currently a university student dabbling into the world that is engineering 
 
 # 📟 Where to contact me
 
-# 📄 See my Github Stats
 <details>
-<summary> Stats </summary>
+<summary><h1>📄 See my Github Stats</h1></summary>
 
-[![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=smzalam&theme=outrun" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smzalam&show=prs_merged&show_icons=true&theme=outrun&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smzalam&langs_count=6&layout=donut-vertical"/>
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=smzalam&theme=nightowl&hide_border=true"/>
+</a>
+</details>
 
-[![Syed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smzalam&langs_count=6&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@smzalam"><img src="https://holopin.me/smzalam" alt="@smzalam&#39;s Holopin board"></a></p>
 </details>
 
 ```python
