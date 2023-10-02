@@ -101,6 +101,12 @@ A variety of new stuff about to be public soon!
 </details>
 
 
+<details>
+<summary><h2>💼 My Repos</h2></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smzalam&repo=TML-New-Era-Lines-Analysis&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
 <details>
 <summary><h2>📄 See my Github Stats</h2></summary>
