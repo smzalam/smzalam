@@ -16,6 +16,8 @@ A variety of new stuff about to be public soon!
 - NextJS
 - AWS
 - Data Structures and Algorithms
+- Machine Learning Models
+- OpenCV
 
 
 
